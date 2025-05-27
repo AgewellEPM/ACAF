@@ -1,4 +1,4 @@
-# ACAF
+# Autonomous Cognitive Agent Framework (ACAF)
 About the Autonomous Cognitive Agent Framework (ACAF)
 The Autonomous Cognitive Agent Framework (ACAF) is a groundbreaking platform engineered to empower AI agents with advanced capabilities for self-directed operation, continuous learning, and intelligent decision-making. Far more than a simple automation tool, ACAF provides a robust, modular architecture that mimics core cognitive functions, enabling AI to thrive in dynamic and complex environments.
 
