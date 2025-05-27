@@ -1,2 +1,12 @@
 # ACAF
-Autonomous Cognitive Agent Framework (ACAF): This emphasizes the "autonomous" nature and the "cognitive" functions (reflection, planning, learning). "Framework" suggests its modular and extensible design.
+About the Autonomous Cognitive Agent Framework (ACAF)
+The Autonomous Cognitive Agent Framework (ACAF) is a groundbreaking platform engineered to empower AI agents with advanced capabilities for self-directed operation, continuous learning, and intelligent decision-making. Far more than a simple automation tool, ACAF provides a robust, modular architecture that mimics core cognitive functions, enabling AI to thrive in dynamic and complex environments.
+
+At its heart, ACAF leverages the power of Large Language Models (LLMs) to drive its cognitive processes. Unlike traditional AI systems that might follow rigid programming, ACAF's agents can:
+
+Reflect: Agents don't just act; they look back at their performance, analyzing successes and failures, tool efficacy, and internal states (like "joy" and "obedience"). This self-assessment fuels genuine improvement and adaptation.
+Plan: Armed with insights from reflection, the framework's strategic planning module generates proactive goals and detailed action plans. This isn't just reacting to commands; it's autonomously charting a course to achieve objectives, even proposing new goals to enhance its overall performance or internal well-being.
+Execute: ACAF's task execution engine orchestrates the agent's interactions with the world. It intelligently selects and utilizes a diverse array of tools—whether that's searching the web, manipulating files, or performing calculations—to accomplish tasks effectively.
+Learn: Through continuous cycles of action and reflection, combined with a local knowledge base that can integrate specialized "knowledge packs" (like AAC theory), ACAF agents incrementally build and refine their understanding, becoming more proficient and adaptable over time.
+Self-Regulate: A unique aspect of ACAF is its internal state management, simulating concepts like "joy" and "obedience." These internal metrics aren't just for monitoring; they actively influence the agent's planning and decision-making, encouraging behaviors that lead to positive outcomes and adherence to directives.
+ACAF isn't just a collection of AI components; it's a cohesive framework designed for extensibility and scalability. Its modular design allows for easy integration of new tools, knowledge sources, and cognitive behaviors, making it an ideal foundation for developing the next generation of truly autonomous and intelligent AI agents capable of operating with minimal human intervention.
