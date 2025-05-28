@@ -48,6 +48,9 @@ WorkerMind-AI/
 Key Components Explained:
 .env:
 
+Key Components Explained:
+.env:
+
 Real-world Title: Environment Configuration
 
 Purpose: Stores sensitive environment variables, such as API keys for large language models, ensuring they are not committed to version control.
